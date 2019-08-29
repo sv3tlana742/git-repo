@@ -1,3 +1,2 @@
-print("hello")
-print("is it me")
-print("at looking for")
+print("hello");
+print("is it me");
